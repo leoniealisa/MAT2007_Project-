@@ -5,7 +5,7 @@ In which months is the swell most surfable in Hossegor, Peniche, and Taghazout, 
 ---
 ## Dataset
 
-Hourly wave height and wave period for 2016 - 2025 from the ERA5-Ocean reanalysis, downloaded through the free Open-Meteo Marine API (https://open-meteo.com/en/docs/marine-weather-api), no account or key is needed. The downloaded data is also included as wave_data.cvs.
+Hourly wave height and wave period for 2016 - 2025 from the ERA5-Ocean reanalysis, downloaded through the free Open-Meteo Marine API (https://open-meteo.com/en/docs/marine-weather-api), no account or key is needed. The downloaded data is also included as wave_data.csv.
 Cleaning: no manual cleaning is needed, the data has no missing values. analysis.py averages the hourly values to daily means as part of the analysis. 
 
 ---
